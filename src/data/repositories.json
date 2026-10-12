@@ -54,7 +54,7 @@
 			{
 				"name": "floatdrop/moq-go",
 				"url": "https://github.com/floatdrop/moq-go",
-				"stars": 1,
+				"stars": 3,
 				"language": "Go",
 				"description": "Go implementation of the IETF MoQ Transport protocol and relay."
 			}
